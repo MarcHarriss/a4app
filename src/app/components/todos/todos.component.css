@@ -1,0 +1,37 @@
+div li {
+  background-color: #B00000;
+  padding: 10px;
+  border-radius: 5px;
+  display: block;
+  list-style-type: none;
+  margin: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  box-shadow: 1px 2px 30px -3px #900000 ;
+  display: flow-root;
+}
+div ul {
+  padding: 0;
+  margin: 0;
+}
+li span {
+  padding: 0 0 0 20px;
+  vertical-align: middle;
+}
+.myBody {
+  background-color: #900000;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+  min-height: 100;
+  position: absolute;
+
+}
+div button {
+  float: right;
+  font-size: 10px;
+
+}
