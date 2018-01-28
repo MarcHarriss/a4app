@@ -11,7 +11,8 @@ import { ProfileComponent } from './components/profile/profile.component';
 
 const appRoutes:Routes = [
   {path:"" , component:UsersComponent},
-  {path:"profile", component:ProfileComponent}
+  {path:"profile", component:ProfileComponent},
+  {path:"todos", component:TodosComponent}
 ];
 
 @NgModule({
